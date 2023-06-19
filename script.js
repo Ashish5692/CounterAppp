@@ -1,5 +1,5 @@
-
 const countValue = document.querySelector('#counter');
+//const countValue = document.getElementById('#counter');
 
 const increment = () =>{
     //get value from UI
